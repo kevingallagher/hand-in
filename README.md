@@ -73,7 +73,7 @@ IXD104 May 13th Hand in
 
 + [Flickr album](https://www.flickr.com/photos/kevingallagherixd/albums/72157665851160693)
 
-+ [Day in the Life of](https://www.flickr.com/photos/kevingallagherixd/in/album-72157665851160693)
++ [Day in the Life of](https://www.flickr.com/photos/kevingallagherixd/26864644072/in/album-72157665851160693/)
 
 
 
