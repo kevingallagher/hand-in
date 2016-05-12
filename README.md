@@ -3,58 +3,58 @@ First Year
 IXD103 May 12th Hand in
 -----------------------
 
-### Monogram
+#### Monogram
 
 
 
 
-### Wordmark
+#### Wordmark
 
 
 
 
-### Visual Mark
+#### Visual Mark
 
 
 
 
-### Style Guide
+#### Style Guide
 
 
 
 
-### Personal Website
+#### Personal Website
 
 
 
 
-### tumblr ixd103 tag
+#### Tumblr IXD103 tag
 
 
 IXD104 May 13th Hand in
 -----------------------
 
-### Photography (Micro/Macro)
+#### Photography (Micro/Macro)
 
 
 
 
-### Icons 
-
-
-
-
-
-### Album Covers
+#### Icons 
 
 
 
 
 
-### visualising data infographic
+#### Album Covers
 
 
 
 
 
-### tumblr ixd104 tag
+#### Visualising Data (Infographic)
+
+
+
+
+
+#### Tumblr IXD104 tag
