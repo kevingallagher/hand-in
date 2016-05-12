@@ -20,8 +20,7 @@ IXD103 May 12th Hand in
 
 + [Flickr album](https://www.flickr.com/photos/kevingallagherixd/albums/72157668186900076)
 
-+
-[final wordmark](https://www.flickr.com/photos/kevingallagherixd/26926443996/in/album-72157668186900076/)
++ [final wordmark](https://www.flickr.com/photos/kevingallagherixd/26926443996/in/album-72157668186900076/)
 
 
 #### Visual Mark
@@ -40,9 +39,9 @@ IXD103 May 12th Hand in
 
 #### Personal Website
 
-+[Github repository](https://github.com/kevingallagher/style-guide)
++ [Github repository](https://github.com/kevingallagher/style-guide)
 
-+[Final Website](https://kevingallagher.github.io/style-guide/website2.html)
++ [Final Website](https://kevingallagher.github.io/style-guide/website2.html)
 
 
 
@@ -67,12 +66,12 @@ IXD104 May 13th Hand in
 
 #### Album Covers
 
-+[Flickr album](https://www.flickr.com/photos/kevingallagherixd/albums/72157668183200706)
++ [Flickr album](https://www.flickr.com/photos/kevingallagherixd/albums/72157668183200706)
 
 
 #### Visualising Data (Infographic)
 
-+[Flickr album](https://www.flickr.com/photos/kevingallagherixd/albums/72157665851160693)
++ [Flickr album](https://www.flickr.com/photos/kevingallagherixd/albums/72157665851160693)
 
 + [Day in the Life of](https://www.flickr.com/photos/kevingallagherixd/in/album-72157665851160693)
 
