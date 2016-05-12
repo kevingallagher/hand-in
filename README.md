@@ -29,8 +29,8 @@ IXD103 May 12th Hand in
 
 #### Personal Website
 
-+ [Web Page]
-()
++ [Website]
+(https://kevingallagher.github.io/style-guide/website2.html)
 
 
 
