@@ -36,6 +36,7 @@ IXD103 May 12th Hand in
 
 + [Final](https://www.flickr.com/photos/kevingallagherixd/26360918223/in/album-72157668198420876/)
 
++ [live style guide](https://kevingallagher.github.io/style-guide/style-guide)
 
 #### Personal Website
 
